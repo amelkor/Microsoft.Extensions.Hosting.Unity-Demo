@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) Aleksei Melkor, .NET Foundation and Contributors
+Copyright (c) Aleksei Melkor
 
 All rights reserved.
 
