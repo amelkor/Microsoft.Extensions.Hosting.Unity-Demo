@@ -8,4 +8,4 @@ This project requires [Microsoft.Extensions.Hosting.Unity package](https://githu
 Clone this repository and open in Unity (2020.3.8 is used originally)
 
 ## Licensing
-- MIT License, see  [LICENSE.md](LICENSE.md) for more information.
+- MIT License
